@@ -1,2 +1,2 @@
-# CarSniper
+# CardSniper
 A card deal finder
